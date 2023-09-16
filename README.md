@@ -1,2 +1,2 @@
 # simple_cipher
-learning about codes
+I was learning about codes and did a Ceasar Cipher
